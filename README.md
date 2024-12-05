@@ -1,1 +1,1 @@
-# Projeto-Painel-de-Indicadores-Grupo-2-
+# Projeto Painel de Indicadores (Grupo 2)
