@@ -8,4 +8,5 @@ Em um cenário onde cada decisão impacta diretamente o futuro de milhares de es
 - Júlia Nunes
 - João Antônio
 - Rafael Mourato
+- Victor Aurélio
 - Weldon Pereira
